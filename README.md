@@ -73,7 +73,7 @@ The model was evaluated on the unseen 2024 test dataset using **Mean Absolute Pe
 
 * **Final Test MAPE:** 2.55%
 
-An error rate of 2.62% indicates a highly accurate and stable forecasting model. On average, the model's predictions deviate from the actual grid demand by less than 3%, minimizing the risk of both wasted generation (overestimation) and load shedding (underestimation).
+An error rate of 2.55% indicates a highly accurate and stable forecasting model.
 
 ---
 
