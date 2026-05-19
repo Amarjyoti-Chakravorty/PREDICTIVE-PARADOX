@@ -71,9 +71,9 @@ To ensure zero data leakage, strict chronological separation was enforced:
 
 The model was evaluated on the unseen 2024 test dataset using **Mean Absolute Percentage Error (MAPE)**.
 
-* **Final Test MAPE:** 2.55%
+* **Final Test MAPE:** 2.51%
 
-An error rate of 2.55% indicates a highly accurate and stable forecasting model.
+An error rate of 2.51% indicates a highly accurate and stable forecasting model.
 
 ---
 
